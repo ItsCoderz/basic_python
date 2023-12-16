@@ -1,0 +1,7 @@
+dict={'CP': 'COMUTER PROGRAMMING',
+     'FCE': 'FUNDAMENTAL OF COMPUTER ENGINEERING',
+     'PST': 'PAKISTAN STUDIES',
+     'BEE': 'BASICS OF ELECTRICAL ENGINEERING',
+     'F.ENG': 'FUNCTIONAL ENGLISH'}
+dict.get('chinese')
+print (dict['CP'])
